@@ -8,3 +8,5 @@ Pressing the "=" button displays a final output and resets the stack. "C" also c
 ----
 
 My first app ever <3
+
+Created years ago and boy does this code not age well
